@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **suryat6574@gmail.com**
 
+- 📄 Know about my experiences [https://resume.showwcase.com/suryat6574.pdf?v=1707219699024](https://resume.showwcase.com/suryat6574.pdf?v=1707219699024)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/surya tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surya tomar" height="30" width="40" /></a>
