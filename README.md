@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://devexplorer.hashnode.dev/](https://devexplorer.hashnode.dev/)
 
-- 💬 Ask me about **html, css, javascript, reat, gsap, seo**
+- 💬 Ask me about **HTML, CSS, javascript, react, web animation, SEO**
 
 - 📫 How to reach me **suryat6574@gmail.com**
 
