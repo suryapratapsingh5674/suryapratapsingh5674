@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **suryat6574@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://resume.showwcase.com/suryat6574.pdf?v=1707219699024)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1u6T_qKQeTn4xJyy27qPdGiQw_TXrfk_7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
