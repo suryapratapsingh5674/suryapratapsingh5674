@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **suryat6574@gmail.com**
 
-- 🌐 Know about my experiences: <a href="www.suryatomar.tech" target="_blank">My Portfolio</a>
+- 🌐 Know about my experiences: [My Portfolio](https://www.suryatomar.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
