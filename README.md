@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **suryat6574@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/14F9vZpYybCnnEwUnBZiZZJoT-_zycBJS/view?usp=sharing)
+- 📄 Know about my experiences [My Portfolio](https://www.suryatomar.tech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
