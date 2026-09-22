@@ -5,9 +5,9 @@
 <h3 align="center">Full-Stack Developer | React • Node.js • TypeScript</h3>
 
 <p align="center">
-  <a href="https://www.suryatomar.tech">Portfolio</a> •
-  <a href="https://linkedin.com/in/suryat6574">LinkedIn</a> •
-  <a href="https://x.com/Suryatomar01">X</a>
+  <a target="_blank" href="https://www.suryatomar.tech">Portfolio</a> •
+  <a target="_blank" href="https://linkedin.com/in/suryat6574">LinkedIn</a> •
+  <a target="_blank" href="https://x.com/Suryatomar01">X</a>
 </p>
 
 <img align="right" alt="coding" width="350" src="https://miro.medium.com/1*IRGHmiGsa16stedQvIaZfw.gif">
