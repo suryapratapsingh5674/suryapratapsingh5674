@@ -6,7 +6,7 @@
 
 <p align="center">
   <a target="_blank" href="https://www.suryatomar.tech">Portfolio</a> •
-  <a target="_blank" href="https://linkedin.com/in/suryat6574">LinkedIn</a> •
+  <a target="_blank" href="https://www.linkedin.com/in/surya-pratap-singh-tomar/">LinkedIn</a> •
   <a target="_blank" href="https://x.com/Suryatomar01">X</a>
 </p>
 
